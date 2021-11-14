@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\bin\Debug\ClockWidget.exe.config
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\bin\Debug\ClockWidget.exe
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\bin\Debug\ClockWidget.pdb
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.Form1.resources
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.csproj.CopyComplete
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.exe
+C:\Users\ASUS\source\repos\DesktopClock\ClockWidget\obj\Debug\ClockWidget.pdb
